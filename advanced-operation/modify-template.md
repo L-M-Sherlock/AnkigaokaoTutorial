@@ -1,6 +1,6 @@
 # 4.4 卡片模板修改
 > CSS，JS相关，不详细讲
-
+[TOC=2,4]
 ## 4.4.1 Windows/Mac
 
 ![](../.gitbook/assets/5.PNG)

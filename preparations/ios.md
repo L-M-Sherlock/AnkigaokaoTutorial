@@ -1,9 +1,9 @@
 # 2.3 iOS
-
+[TOC=2,4]
 ## 2.3.1 下载安装
 
-app store 里的 AnkiMobile 163￥
-淘宝上有  1￥ 左右的
+app store 里的 AnkiMobile 163 ￥
+淘宝上有  1 ￥ 左右的
 自己选择一个
 
 ## 2.3.2 注册账号

@@ -1,6 +1,6 @@
 # 4.3 卡片文字转语音
 > TTS使用详解
-
+[TOC=2,4]
 ## 4.3.1 Windows/Mac
 
 参见[【工具篇】TTS 妈妈再也不用担心我的软件发音](https://zhuanlan.zhihu.com/p/26006690)

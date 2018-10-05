@@ -1,5 +1,5 @@
 # 2.2 Android
-
+[TOC=2,4]
 ## 2.2.1 下载软件
 
 介于国内的安卓手机无法通过 Google Play 下载和安装 Anki
