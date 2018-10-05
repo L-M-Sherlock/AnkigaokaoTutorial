@@ -5,9 +5,9 @@ description: 简单的介绍 Anki X 高考
 # 第1章 了解 Anki X 高考
 
 接下来，你将认识到，Anki 是什么，高考是什么，以及，为什么我推荐用 Anki 备战高考。
-  * [1.1 Anki 是什么？](learn-about-anki/what-is-anki.md)
-  * [1.2 高考是什么？](learn-about-anki/what-is-gaokao.md)
-  * [1.3 为什么用 Anki 备战高考？](learn-about-anki/why-use-anki-to-prepare-for-gaokao.md)
+  * [1.1 Anki 是什么？](what-is-anki.md)
+  * [1.2 高考是什么？](what-is-gaokao.md)
+  * [1.3 为什么用 Anki 备战高考？](why-use-anki-to-prepare-for-gaokao.md)
   
 {% page-ref page="what-is-anki.md" %}
 
