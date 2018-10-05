@@ -79,7 +79,7 @@ description: 我对高考的看法
 
 针对知识运用环节，我们可以多做习题。如何刷题？可以看下面这篇文章：
 
-{% page-ref page="../the-way-to-study/prectise-make-perfect.md" %}
+[5.3 刷题与错题](../the-way-to-study/prectise-make-perfect.md)
 
 针对知识内化环节，我们可以将学到的概念、公式、定理、解释等内容制作成 Anki 卡片来加深我们的理解。也可以教授他人我们所学的知识，可以参见费曼学习法。  
 
