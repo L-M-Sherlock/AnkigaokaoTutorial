@@ -3,20 +3,21 @@ description: .apkg文件在各系统的打开方法
 ---
 
 # 3.1 导入卡片
+> .apkg文件在各系统的打开方法
 
 试用材料[百度云下载](https://pan.baidu.com/s/1dA5jpF4PoyIlnAG2Z3m0PQ)
 
 或者在下面下载
 
-{% file src="../.gitbook/assets/li-ke-yu-wen-shu-yu.apkg" %}
+[语文](../.gitbook/assets/li-ke-yu-wen-shu-yu.apkg)
 
-{% file src="../.gitbook/assets/li-ke-ying-yu-xie-zuo.apkg" %}
+[英语](../.gitbook/assets/li-ke-ying-yu-xie-zuo.apkg)
 
-{% file src="../.gitbook/assets/li-ke-wu-li-wu-li-xue-shi.apkg" %}
+[物理](../.gitbook/assets/li-ke-wu-li-wu-li-xue-shi.apkg)
 
-{% file src="../.gitbook/assets/li-ke-sheng-wu-fen-zi-yu-xi-bao.apkg" %}
+[生物](../.gitbook/assets/li-ke-sheng-wu-fen-zi-yu-xi-bao.apkg)
 
-{% file src="../.gitbook/assets/li-ke-hua-xue-hua-xue-shi-yan.apkg" %}
+[化学](../.gitbook/assets/li-ke-hua-xue-hua-xue-shi-yan.apkg)
 
 ## 3.1.1 Windows/Mac
 
