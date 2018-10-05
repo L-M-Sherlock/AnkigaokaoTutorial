@@ -1,8 +1,5 @@
----
-description: 以及参数介绍
----
-
 # 4.5 算法参数修改
+> 以及参数介绍
 
 先拿两个图来展示一下![](https://pic2.zhimg.com/80/v2-a849d28c0d50d77ad9178f0414830c85_hd.jpg)![](https://pic1.zhimg.com/80/v2-4c622858a8627e3e5bb77893ea62f00c_hd.jpg)
 
