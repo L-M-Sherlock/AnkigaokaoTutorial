@@ -3,7 +3,7 @@
 
 本书内容由
 
-知乎专栏《高考╳Anki——科学备考研究所》
+知乎专栏《[高考╳Anki——科学备考研究所](https://zhuanlan.zhihu.com/ankigaokao)》
 
 以及
 
