@@ -29,4 +29,3 @@
     * [5.4 整理学习材料](the-way-to-study/sort-out-the-study-material.md)
     * [5.5 自律与规划](the-way-to-study/self-regulation-and-arrangement.md)
 * [结语](ending.md)
-* [FAQ](faq.md)
