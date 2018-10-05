@@ -8,12 +8,6 @@ description: 简单的介绍 Anki X 高考
   * [1.1 Anki 是什么？](what-is-anki.md)
   * [1.2 高考是什么？](what-is-gaokao.md)
   * [1.3 为什么用 Anki 备战高考？](why-use-anki-to-prepare-for-gaokao.md)
-  
-{% page-ref page="what-is-anki.md" %}
-
-{% page-ref page="what-is-gaokao.md" %}
-
-{% page-ref page="why-use-anki-to-prepare-for-gaokao.md" %}
 
 如果你已经了解过 Anki ，但是还没安装软件，可以直接从下面这章开始看
 
