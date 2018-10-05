@@ -1,5 +1,7 @@
 {
     "plugins": [
-        "comment"
+        "comment",
+        "image-zoom",
+        "ad"
     ]
 }
