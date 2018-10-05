@@ -1,6 +1,9 @@
 {
     "plugins": [
-        "comment"
+        "comment",
+        "image-zoom",
+        "cloud-image",
+        "ad"
     ],
     "pluginsConfig": {
         "theme-default": {
