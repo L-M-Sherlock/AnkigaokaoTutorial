@@ -2,13 +2,7 @@
     "plugins": [
         "comment",
         "image-zoom",
-        "cloud-image",
-        "ad"
-    ],
-    "pluginsConfig": {
-        "theme-default": {
-            "show_nav": false,
-            "auto_open": true
-        }
-    }
+        "ad",
+        "cloud-image"
+    ]
 }
