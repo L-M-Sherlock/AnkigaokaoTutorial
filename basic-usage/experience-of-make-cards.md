@@ -101,9 +101,7 @@ description: 制卡是一门学问
 
  IRead 题、简答题、填空题
 
-模板下载：
-
-{% file src="../.gitbook/assets/mo-ban-ji-he.apkg" %}
+模板下载：[IRead](https://pan.baidu.com/s/1noyI1p3JSf5I7G9dqTNOPg)
 
 ### 3.5.3.1 IRead 题：
 

@@ -1,14 +1,8 @@
----
-description: 我对高考的看法
----
-
 # 1.2 高考是什么？
+> 我对高考的看法
 
 高考是什么？
-
-~~百度百科：~~
-
-> ~~普通高等学校招生全国统一考试（The National College Entrance Examination），简称“高考”，是~~[~~中华人民共和国~~](https://baike.baidu.com/item/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD/106554)~~（不包括香港特别行政区、澳门特别行政区和~~[~~台湾省~~](https://baike.baidu.com/item/%E5%8F%B0%E6%B9%BE%E7%9C%81/761219)~~）合格的高中毕业生或具有同等学历的考生参加的选拔性考试。~~
+> ~~百度百科：普通高等学校招生全国统一考试（The National College Entrance Examination），简称“高考”，是~~[~~中华人民共和国~~](https://baike.baidu.com/item/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD/106554)~~（不包括香港特别行政区、澳门特别行政区和~~[~~台湾省~~](https://baike.baidu.com/item/%E5%8F%B0%E6%B9%BE%E7%9C%81/761219)~~）合格的高中毕业生或具有同等学历的考生参加的选拔性考试。~~
 
 上面这个是事实，无需废话。重要的是，作为一名学生，**你**是怎么看待高考和高中三年的？
 

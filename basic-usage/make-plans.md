@@ -1,12 +1,9 @@
----
-description: 关于选项组（学习计划）的简单介绍
----
-
 # 3.2 制定计划
+> 关于选项组（学习计划）的简单介绍
 
 本文暂不做介绍的内容都会在下面这篇文章介绍。
 
-{% page-ref page="../advanced-operation/modify-parameter.md" %}
+[4.5 算法参数修改](../advanced-operation/modify-parameter.md)
 
 ## 3.2.1 Windows/Mac
 
@@ -61,7 +58,7 @@ description: 关于选项组（学习计划）的简单介绍
 
 其实很简单，只要拖动子牌组到父牌组上就可以了。
 
-{% hint style="info" %}
+
 父牌组的学习限制优先度高于子牌组的学习限制。
 
 例如：
@@ -71,7 +68,7 @@ description: 关于选项组（学习计划）的简单介绍
 理科的新学习限制为 50 张，而物理和数学各自的限制也是 50 张
 
 若小明学了 50 张物理牌组的卡片，那么物理牌组和理科牌组同时达到限制，所以数学牌组的卡片就无法用于新学习
-{% endhint %}
+
 
 ##  3.2.2 Android
 

@@ -1,5 +1,11 @@
 {
     "plugins": [
         "comment"
-    ]
+    ],
+    "pluginsConfig": {
+        "theme-default": {
+            "show_nav": false,
+            "auto_open": true
+        }
+    }
 }
