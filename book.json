@@ -1,5 +1,5 @@
 {
-    "theme": "special",
+    "theme": "gitscm",
     "plugins": [
         "comment"
     ]
