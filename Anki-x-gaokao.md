@@ -1,5 +1,5 @@
 # Anki X 高考
->简介
+> 简介
 
 ![](.gitbook/assets/tim-jie-tu-20180912201641.png)
 
