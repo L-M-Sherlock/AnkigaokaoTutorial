@@ -9,15 +9,15 @@ description: .apkg文件在各系统的打开方法
 
 或者在下面下载
 
-[语文](../.gitbook/assets/li-ke-yu-wen-shu-yu.apkg)
+![语文](../.gitbook/assets/li-ke-yu-wen-shu-yu.apkg)
 
-[英语](../.gitbook/assets/li-ke-ying-yu-xie-zuo.apkg)
+![英语](../.gitbook/assets/li-ke-ying-yu-xie-zuo.apkg)
 
-[物理](../.gitbook/assets/li-ke-wu-li-wu-li-xue-shi.apkg)
+![物理](../.gitbook/assets/li-ke-wu-li-wu-li-xue-shi.apkg)
 
-[生物](../.gitbook/assets/li-ke-sheng-wu-fen-zi-yu-xi-bao.apkg)
+![生物](../.gitbook/assets/li-ke-sheng-wu-fen-zi-yu-xi-bao.apkg)
 
-[化学](../.gitbook/assets/li-ke-hua-xue-hua-xue-shi-yan.apkg)
+![化学](../.gitbook/assets/li-ke-hua-xue-hua-xue-shi-yan.apkg)
 
 ## 3.1.1 Windows/Mac
 
