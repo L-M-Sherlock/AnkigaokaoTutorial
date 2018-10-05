@@ -1,8 +1,11 @@
 {
     "plugins": [
         "comment",
-        "image-zoom",
-        "ad",
-        "cloud-image"
-    ]
+        "image-zoom"
+    ],
+    "pluginsConfig": {
+        "theme-default": {
+            "auto_open": true
+        }
+    }
 }
