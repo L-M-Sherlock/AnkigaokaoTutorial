@@ -3,11 +3,11 @@
 [TOC=2,4]
 ## 4.3.1 Windows/Mac
 
-参见[【工具篇】TTS 妈妈再也不用担心我的软件发音](https://zhuanlan.zhihu.com/p/26006690)
+参见[AwesomeTTS for Anki](http://awesome-zh.nocode.site/)
 
 ## 4.3.2 Android
 
-在不录音的前提下，如何给英语卡片带上发音。（这样还有助于减小卡片体积，加快同步速度）
+在不录音的前提下，给英语卡片带上发音。（这样还有助于减小卡片体积，加快同步速度）
 
 先放软件下载地址：[Google 文字转语音引擎.apk](https://pan.baidu.com/s/1MK6cn4xj-MluVVf1V9TQgg)
 
