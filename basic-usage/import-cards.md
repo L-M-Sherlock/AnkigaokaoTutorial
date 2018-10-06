@@ -1,5 +1,5 @@
 # 3.1 导入卡片
-> .apkg文件在各系统的打开方法
+> .apkg 文件在各系统的打开方法
 [TOC=2,4]
 试用材料[百度云下载](https://pan.baidu.com/s/1dA5jpF4PoyIlnAG2Z3m0PQ)
 
@@ -8,7 +8,7 @@
 
 ![](../.gitbook/assets/9.22.20.24.PNG)
 
-如图所示，只要你安装好 Anki ，.apkg文件就会自动关联好，只要双击打开，就可以导入了。
+如图所示，只要你安装好 Anki，.apkg 文件就会自动关联好，只要双击打开，就可以导入了。
 
 ![](../.gitbook/assets/9.22.20.27.PNG)
 
@@ -29,7 +29,7 @@
   
 你只需要把牌组移动到下图的地址即可
 
-![&#x8FD9;&#x4E2A;&#x56FE;&#x8BF7;&#x8BA4;&#x771F;&#x770B;](../.gitbook/assets/screenshot_20180922-210300__01.jpg)
+![](../.gitbook/assets/screenshot_20180922-210300__01.jpg)
 
 ## 3.1.3 iOS
 
