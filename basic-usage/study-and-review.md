@@ -5,11 +5,11 @@
 
 点开一个牌组，显示如下
 
-![](../.gitbook/assets/tim-jie-tu-20180912103002.png)
+:-: ![](../.gitbook/assets/tim-jie-tu-20180912103002.png)
 
 调动记忆，回想答案。
 
-![](../.gitbook/assets/tim-jie-tu-20180912103021.png)
+:-: ![](../.gitbook/assets/tim-jie-tu-20180912103021.png)
 
   
 对照答案并根据回忆顺利程度选择间隔，如果不确定看参考下面的标准：
