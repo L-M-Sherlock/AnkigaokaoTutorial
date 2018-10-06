@@ -1,4 +1,4 @@
-* [目录](目录.md)
+* [目录](content.md)
 * [第 0 章 可有可无的话](nothing/nothing.md)
     * [Anki X 高考](nothing/anki-x-gaokao.md)
     * [这本书值得读吗？](nothing/is-this-book-worth-reading.md)
@@ -30,3 +30,4 @@
     * [5.3 刷题与错题](the-way-to-study/prectise-make-perfect.md)
     * [5.4 整理学习材料](the-way-to-study/sort-out-the-study-material.md)
     * [5.5 自律与规划](the-way-to-study/self-regulation-and-arrangement.md)
+* [结语](ending.md)

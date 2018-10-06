@@ -1,4 +1,4 @@
-* [目录](目录.md)
+* [目录](content.md)
 * [第 0 章 可有可无的话](nothing/nothing.md)
     * [Anki X 高考](nothing/anki-x-gaokao.md)
     * [这本书值得读吗？](nothing/is-this-book-worth-reading.md)
