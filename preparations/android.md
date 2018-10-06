@@ -16,33 +16,23 @@
 
 下载下来的 .apk 在手机上打开，即可安装
 
-![](../images/image18.png)
+:-: ![](../images/image18.png)
 
 ## 2.2.3 注册账号
 
- 打开 AnkiDroid，点击同步
+ 打开 AnkiDroid
 
-![](../images/image6.png)
+:-: ![](../images/image6.png)点击同步
 
-  
- 点击登录
+:-: ![](../images/image9.png) 点击登录
 
-![](../images/image9.png)
+:-: ![](../images/image4.png) 点击注册
 
- 点击注册
+:-: ![](../images/image.png)注册账号（记得去注册邮箱点击验证邮件）
 
-![](../images/image4.png)
-
-  
- 注册账号（记得去注册邮箱点击验证邮件）
-
-![](../images/image.png)
-
- 返回登录
-
-![](../images/image13.png)
-
+:-: ![](../images/image13.png)返回登录
+*****
 准备工作结束，可以去学学基础使用啦！
 
-[第3章 基础用法](../basic-usage/basic-usage.md)
+>[success] [第3章 基础用法](../basic-usage/basic-usage.md)
 

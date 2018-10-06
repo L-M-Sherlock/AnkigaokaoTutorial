@@ -10,11 +10,11 @@
 
 ## 3.1.1 Windows/Mac
 
-![](../.gitbook/assets/9.22.20.24.PNG)
+:-: ![](../.gitbook/assets/9.22.20.24.PNG)
 
 如图所示，只要你安装好 Anki，.apkg 文件就会自动关联好，只要双击打开，就可以导入了。
 
-![](../.gitbook/assets/9.22.20.27.PNG)
+:-: ![](../.gitbook/assets/9.22.20.27.PNG)
 
 如果不行的话，就像上图所示，手动导入。
 
@@ -22,37 +22,27 @@
 
 具体过程如下图
 
-![](../.gitbook/assets/gif_20180922211422.gif)
+:-: ![](../.gitbook/assets/gif_20180922211422.gif)
 
 当然，上图是在你已经把牌组移动到指定位置了。
 
-一般来说，百度云下载的地址如下图
+一般来说，百度云下载的储存路径如下图
 
-![](../.gitbook/assets/screenshot_20180922-210129__01.jpg)
+:-: ![](../.gitbook/assets/screenshot_20180922-210129__01.jpg)
 
-  
-你只需要把牌组移动到下图的地址即可
+你只需要把牌组移动到下图的路径即可
 
-![](../.gitbook/assets/screenshot_20180922-210300__01.jpg)
+:-: ![](../.gitbook/assets/screenshot_20180922-210300__01.jpg)
 
 ## 3.1.3 iOS
 
 打开百度云
 
-![](../.gitbook/assets/tim-tu-pian-20180922213636.jpg)
+:-: ![](../.gitbook/assets/tim-tu-pian-20180922213636.jpg)下载
 
-下载
+:-: ![](../.gitbook/assets/tim-tu-pian-20180922213642.jpg)打开
 
-![](../.gitbook/assets/tim-tu-pian-20180922213642.jpg)
+:-: ![](../.gitbook/assets/tim-tu-pian-20180922213655.jpg)如果有 Copy  to Anki 就直接点
 
-  
-打开
-
-![](../.gitbook/assets/tim-tu-pian-20180922213655.jpg)
-
-如果有 Copy  to Anki 就直接点
-
-![](../.gitbook/assets/tim-tu-pian-20180922213701.jpg)
-
-如果没有，可能藏在 More 里面
+:-: ![](../.gitbook/assets/tim-tu-pian-20180922213701.jpg)如果没有，可能藏在 More 里面
 

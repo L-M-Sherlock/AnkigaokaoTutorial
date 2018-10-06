@@ -27,16 +27,20 @@ Anki  基于**间隔反复**方法，按照材料的难易程度， 控制对应
 
 可能这样说有点抽象，下面几张图会帮助你理解上面的文字。
 
-![](../.gitbook/assets/tim-jie-tu-20180912103002.png)
+:-: ![](../.gitbook/assets/tim-jie-tu-20180912103002.png)
+
 卡片是 Anki 储存学习材料的最小载体。
 
 卡片正面通常是引起回忆的提示，可以是单词、文言实词，也可以是数理化中的一个概念、定理的名字，或者是一个问题。
 
-![](../.gitbook/assets/tim-jie-tu-20180912103021.png)
+:-: ![](../.gitbook/assets/tim-jie-tu-20180912103021.png)
 
 卡片背面则可以是单词、文言实词的释义，也可以是数理化中概念和定理的内容或是问题的答案。
 
 通过点击下面的按钮，Anki 就会安排下次遇到这张卡片的时间。
 
-间隔重复的算法我将在 [4.5 算法参数修改](../advanced-operation/modify-parameter.md) 这一章节详细叙述。
+间隔重复的算法我将在
+>[success]  [4.5 算法参数修改](../advanced-operation/modify-parameter.md) 
+> 
+这一章节详细叙述。
 

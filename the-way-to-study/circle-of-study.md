@@ -23,7 +23,7 @@
 
 ## 5.1.2 学习闭环
 
-![](../.gitbook/assets/tim-jie-tu-20180928203219.png)
+:-: ![](../.gitbook/assets/tim-jie-tu-20180928203219.png)
 
 1.从学习资料输入概念和公式等基础知识
 

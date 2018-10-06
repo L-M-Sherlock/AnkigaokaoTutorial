@@ -7,15 +7,15 @@
 
 ## 番茄ToDo
 
-![](../.gitbook/assets/screenshot_20180929-115845.jpg)
+:-: ![](../.gitbook/assets/screenshot_20180929-115845.jpg)
 
-![](../.gitbook/assets/screenshot_20180929-115858.jpg)
+:-: ![](../.gitbook/assets/screenshot_20180929-115858.jpg)
 
-![](../.gitbook/assets/screenshot_20180929-115904.jpg)
+:-: ![](../.gitbook/assets/screenshot_20180929-115904.jpg)
 
-![](../.gitbook/assets/screenshot_20180929-115914.jpg)
+:-: ![](../.gitbook/assets/screenshot_20180929-115914.jpg)
 
-![](../.gitbook/assets/screenshot_20180929-115922.jpg)
+:-: ![](../.gitbook/assets/screenshot_20180929-115922.jpg)
 
   
 安卓应用市场一般都可以搜索到。有了它，再也不用害怕管不住自己的手了！
@@ -28,7 +28,8 @@
 
 ## 但是
 
-真的这么简单吗？？？为什么我们会把空闲的时间拿去娱乐而不是学习？
+真的这么简单吗？
+为什么我们会把空闲的时间拿去娱乐而不是学习？
 
 其实，是因为我们缺乏一个有吸引力的目标。
 
