@@ -1,7 +1,10 @@
 {
     "plugins": [
-        "comment",
-        "image-zoom",
-        "ad"
-    ]
+        "comment"
+    ],
+    "pluginsConfig": {
+        "theme-default": {
+            "auto_open": true
+        }
+    }
 }
