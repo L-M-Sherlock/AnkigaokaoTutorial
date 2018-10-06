@@ -94,6 +94,10 @@
 
 ![](../.gitbook/assets/1f5516686097185556453c7520643aa5.png)
 
+![](../images/1.jpg)
+
+![](../images/2.jpg)
+
 ### 3.2.3.2 设置牌组层级结构
 
 ![](../.gitbook/assets/d759e2c9e5849ff2acb171b04778da8c.png)
