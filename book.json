@@ -1,7 +1,6 @@
 {
     "plugins": [
-        "comment",
-        "image-zoom"
+        "comment"
     ],
     "pluginsConfig": {
         "theme-default": {
