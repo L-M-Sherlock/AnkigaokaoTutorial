@@ -7,13 +7,13 @@
 
 :-: ![](../.gitbook/assets/tim-jie-tu-20180926225331.png)
 
-类型：卡片的模板，可以是问答、填空、只读等
+类型：「卡片」的模板，可以是问答、填空、只读等；
 
-牌组：卡片的归属，决定了该卡片制作后会存在哪个牌组等等学习
+「牌组/记忆库」：「卡片」的归属，决定了该「卡片」制作后会存在哪个「牌组/记忆库」等待学习；
 
-Front：卡片的正面
+Front：「卡片」的正面；
 
-Back：卡片的背面
+Back：「卡片」的背面。
 
 :-: ![](../.gitbook/assets/tim-jie-tu-20180926225350.png)效果图
 
@@ -45,8 +45,8 @@ Back：卡片的背面
 :-: ![](../.gitbook/assets/1af7bd7367a4593a2f8f88be090fb17e.png)点击add/Export
 
 :-: ![](../.gitbook/assets/b1d310214467431250db198f41220900.png)
-点击 Add Empty Deck，创建新牌组
-:-: ![](../.gitbook/assets/a9afa85328c99823bed4e7d02ae0e723.png)命名牌组
+点击 Add Empty Deck，创建新「牌组/记忆库」
+:-: ![](../.gitbook/assets/a9afa85328c99823bed4e7d02ae0e723.png)命名「牌组/记忆库」
 
 :-: ![](../.gitbook/assets/2a96bc8fa4dcca5bf5674447b4851bff.png)点击 Add
 
