@@ -1,9 +1,11 @@
 # 3.1 导入卡片
 > .apkg 文件在各系统的打开方法
 [TOC=2,4]
-试用材料
-百度云下载
-[https://pan.baidu.com/s/1dA5jpF4PoyIlnAG2Z3m0PQ](https://pan.baidu.com/s/1dA5jpF4PoyIlnAG2Z3m0PQ)
+试用材料请用百度云下载
+
+> 点击下面的链接即可
+> **注意**，这会导致转跳到本书之外的网站
+> https://pan.baidu.com/s/1dA5jpF4PoyIlnAG2Z3m0PQ
 
 
 ## 3.1.1 Windows/Mac

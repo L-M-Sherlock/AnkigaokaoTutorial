@@ -6,11 +6,11 @@
 
 这里推荐去 GitHub 的项目 Releases 下载，或者通过我的百度网盘
 > 点击下面的两个链接中的一个即可
-> 注意，这会导致转跳到本书之外的网站
+> **注意**，这会导致转跳到本书之外的网站
 > GitHub
-> [https://github.com/ankidroid/Anki-Android/releases](https://github.com/ankidroid/Anki-Android/releases)
+> https://github.com/ankidroid/Anki-Android/release
 > 百度网盘
-> [https://pan.baidu.com/s/16JFHGO9Yk1hlUD1d84iCGA](https://pan.baidu.com/s/16JFHGO9Yk1hlUD1d84iCGA)
+> https://pan.baidu.com/s/16JFHGO9Yk1hlUD1d84iCGA
 
 ## 2.2.2 安装软件
 

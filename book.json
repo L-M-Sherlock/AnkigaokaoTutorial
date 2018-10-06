@@ -5,7 +5,15 @@
     ],
     "pluginsConfig": {
         "theme-default": {
-            "auto_open": true
+            "auto_open": true,
+            "show_nav": true,
+            "navs": [
+                {
+                    "url": "http://www.jiagou.cn/tb.asp?link=http://tb.cn/s2TMENw",
+                    "title": "支持作者(访问淘宝店)",
+                    "target": true
+                }
+            ]
         }
     }
 }

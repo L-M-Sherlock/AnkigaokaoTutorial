@@ -5,7 +5,7 @@
 
 ### 2.1.1.1 搜索 Anki
 
-![&#x8BF7;&#x70B9;&#x51FB;  https://apps.ankiweb.net/](../.gitbook/assets/search-anki.png)
+![](../images/TIM截图20181006133833.png)
 
 ### 2.1.1.2 下载  Anki
 
@@ -23,4 +23,4 @@
 
 ![](../images/TIM截图20181006084546.png)
 
-注册完记得去邮箱点击验证邮件哦~![](../images/TIM截图20181006133833.png)
+注册完记得去邮箱点击验证邮件哦~![![](../images/TIM截图20181006133833.png)](../images/TIM截图20181006133833.png)
