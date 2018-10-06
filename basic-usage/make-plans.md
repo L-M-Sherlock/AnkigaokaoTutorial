@@ -11,19 +11,18 @@
 
 点击牌组旁边的小齿轮
 
-![](../.gitbook/assets/9.22.21.59.PNG)
-
+:-: ![](../.gitbook/assets/9.22.21.59.PNG)
   
 打开后是这样的，如下图
 
-![](../.gitbook/assets/9.22.22.08.PNG)
+:-: ![](../.gitbook/assets/9.22.22.08.PNG)
 
 ### 3.2.1.1 创建选项组（学习计划）
 
 点击管理——添加，即可创建一个选项组（学习计划）如下图  
 
 
-![](../.gitbook/assets/9.22.23.15.PNG)
+:-: ![](../.gitbook/assets/9.22.23.15.PNG)
 
 ### 3.2.1.2 每日新学习设置 
 
@@ -35,16 +34,15 @@
 
 ### 3.2.1.3 每日复习设置
 
-![](../.gitbook/assets/tim-jie-tu-20180922235504.png)
+:-: ![](../.gitbook/assets/tim-jie-tu-20180922235504.png)
 
-  
 建议把最大复习数量调的尽可能高，让该复习的卡片在当天解决。
 
 剩下的暂不做介绍。
 
 ### 3.2.1.4 回答错误设置
 
-![](../.gitbook/assets/tim-jie-tu-20180922235651.png)
+:-: ![](../.gitbook/assets/tim-jie-tu-20180922235651.png)
 
 记忆难点动作——某张卡片你累计回答错误8次就会执行动作。建议暂停这张卡片，避免花费太多时间死磕。
 
@@ -54,7 +52,7 @@
 
 怎样制作像下图一样的层级结构，让牌组更有条理？
 
-![](../.gitbook/assets/tim-jie-tu-20180923083737.png)
+:-: ![](../.gitbook/assets/tim-jie-tu-20180923083737.png)
 
 其实很简单，只要拖动子牌组到父牌组上就可以了。
 
@@ -74,33 +72,33 @@
 
 ### 3.2.2.1 设置选项组（学习计划）
 
-![](../.gitbook/assets/gif_20180924094104.gif)
+:-: ![](../.gitbook/assets/gif_20180924094104.gif)
 
 ### 3.2.2.2 设置牌组层级结构
 
-![](../.gitbook/assets/gif_20180924094507.gif)
+:-: ![](../.gitbook/assets/gif_20180924094507.gif)
 
 ## 3.2.3 iOS
 
 ### 3.2.3.1 设置选项组（学习计划）
 
-![](../.gitbook/assets/e2f1b4f1cf9027ea020f2697d048f8a6.png)
+:-: ![](../.gitbook/assets/e2f1b4f1cf9027ea020f2697d048f8a6.png)
 
-![](../.gitbook/assets/eaab8a6639f26ae75b62ce8e4da9166c.png)
+:-: ![](../.gitbook/assets/eaab8a6639f26ae75b62ce8e4da9166c.png)
 
-![](../.gitbook/assets/c4a726e2a140e0a38a9589e0351281f8.png)
+:-: ![](../.gitbook/assets/c4a726e2a140e0a38a9589e0351281f8.png)
 
-![](../.gitbook/assets/1f5516686097185556453c7520643aa5.png)
+:-: ![](../.gitbook/assets/1f5516686097185556453c7520643aa5.png)
 
-![](../images/1.jpg)
+:-: ![](../images/1.jpg)
 
-![](../images/2.jpg)
+:-: ![](../images/2.jpg)
 
 ### 3.2.3.2 设置牌组层级结构
 
-![](../.gitbook/assets/d759e2c9e5849ff2acb171b04778da8c.png)
+:-: ![](../.gitbook/assets/d759e2c9e5849ff2acb171b04778da8c.png)
 
-![](../.gitbook/assets/018dd7d1059684591c47bfe35f64b25f.png)
+:-: ![](../.gitbook/assets/018dd7d1059684591c47bfe35f64b25f.png)
 
 
 
