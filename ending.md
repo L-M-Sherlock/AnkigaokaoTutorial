@@ -62,7 +62,7 @@ _在高考中拿**尽可能多的分数**，并以**较少的时间、精力、�
 
 ## 支持作者（也是支持你自己）
 
-[淘宝店地址](http://www.jiagou.cn/tb.asp?link=http://tb.cn/s2TMENw)，欢迎购买 Anki 高考牌组。
+[点击访问手机淘宝店](http://www.jiagou.cn/tb.asp?link=http://tb.cn/s2TMENw)，欢迎购买 Anki 高考牌组。
 
 购买除试用牌组外的牌组即可进入 QQ 群，参加高中知识全覆盖的大型 Anki 制卡活动。拯救高中生，从我们开始！
 
