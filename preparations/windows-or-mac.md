@@ -11,7 +11,12 @@
 
 ![&#x70B9;&#x51FB;&#x8FDB;&#x5165;&#x4E0B;&#x8F7D;&#x9875;&#x9762;](../.gitbook/assets/download.png)
 
-或者，通过[百度云](https://pan.baidu.com/s/16JFHGO9Yk1hlUD1d84iCGA)下载，我会时不时的更新一下。
+或者，通过我的百度网盘分享下载
+>[info]   **注意**，这会导致转跳到本书之外的网站
+> 百度网盘
+> https://pan.baidu.com/s/16JFHGO9Yk1hlUD1d84iCGA
+
+我会时不时的更新一下。
 
 ## 2.1.2 注册账号
 
