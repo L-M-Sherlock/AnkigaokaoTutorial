@@ -3,7 +3,7 @@
 [TOC=2,4]
 试用材料请用百度云下载
 
->[info]  点击下面的链接即可
+>[warning] 点击下面的链接即可
 > **注意**，这会导致转跳到本书之外的网站
 > https://pan.baidu.com/s/1dA5jpF4PoyIlnAG2Z3m0PQ
 

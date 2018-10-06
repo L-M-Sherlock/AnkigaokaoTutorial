@@ -3,7 +3,7 @@
 [TOC=2,3]
 本文暂不做介绍的内容都会在下面这篇文章介绍。
 
-[4.5 算法参数修改](../advanced-operation/modify-parameter.md)
+>[success] [4.5 算法参数修改](../advanced-operation/modify-parameter.md)
 
 ## 3.2.1 Windows/Mac
 

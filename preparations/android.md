@@ -5,7 +5,7 @@
 介于国内的安卓手机无法通过 Google Play 下载和安装 Anki
 
 这里推荐去 GitHub 的项目 Releases 下载，或者通过我的百度网盘
->[info]  点击下面的两个链接中的一个即可
+>[warning] 点击下面的两个链接中的一个即可
 > **注意**，这会导致转跳到本书之外的网站
 > GitHub
 > https://github.com/ankidroid/Anki-Android/release

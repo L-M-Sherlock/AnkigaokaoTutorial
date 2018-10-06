@@ -4,12 +4,17 @@
 ## 4.3.1 Windows/Mac
 
 参见[AwesomeTTS for Anki](http://awesome-zh.nocode.site/)
+>[info] 注意，点击上述链接你将跳转至本书之外的网站
 
 ## 4.3.2 Android
 
 在不录音的前提下，给英语卡片带上发音。（这样还有助于减小卡片体积，加快同步速度）
 
-先放软件下载地址：[Google 文字转语音引擎.apk](https://pan.baidu.com/s/1MK6cn4xj-MluVVf1V9TQgg)
+首先要下载 Google 文字转语音引擎.apk
+
+>[info]   **注意**，这会导致转跳到本书之外的网站
+> 百度网盘
+> https://pan.baidu.com/s/1MK6cn4xj-MluVVf1V9TQgg
 
 ![&#x5B89;&#x88C5;&#x5B8C;&#x540E;&#x53BB;&#x624B;&#x673A;&#x8BBE;&#x7F6E;&#xFF0C;&#x627E;&#x5230;&#x8BED;&#x8A00;&#x548C;&#x8F93;&#x5165;&#x6CD5;](../.gitbook/assets/image%20%2814%29.png)
 
