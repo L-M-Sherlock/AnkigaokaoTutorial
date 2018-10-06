@@ -1,5 +1,4 @@
->[success] * [目录](content.md)
-> * [第 0 章 可有可无的话](nothing/nothing.md)
+>[success]* [第 0 章 可有可无的话](nothing/nothing.md)
 >     * [0.1 Anki X 高考](nothing/anki-x-gaokao.md)
 >     * [0.2 这本书值得读吗？](nothing/is-this-book-worth-reading.md)
 >     * [0.3 前言](nothing/introduction.md)
