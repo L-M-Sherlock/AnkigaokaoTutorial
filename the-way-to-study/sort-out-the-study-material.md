@@ -27,11 +27,11 @@ Anki 制卡的最大来源就是学习材料（废话）
 
 ## 可能用到的材料
 
-:-: ![](../.gitbook/assets/image%20%285%29.png)
+:-: ![](../images/image5.png)
 挂书袋
 提高书桌空间神器！
 
-:-: ![](../.gitbook/assets/image%20%2810%29.png)
+:-: ![](../images/image10.png)
 风琴包
 容量大，可按多种标准分类文件
 *****
