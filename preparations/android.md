@@ -20,7 +20,7 @@
 
 ## 2.2.3 注册账号
 
- 打开 AnkiDroid
+:-:  打开 AnkiDroid
 
 :-: ![](../images/image6.png)
 
