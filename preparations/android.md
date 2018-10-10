@@ -22,15 +22,30 @@
 
  打开 AnkiDroid
 
-:-: ![](../images/image6.png)点击同步
+:-: ![](../images/image6.png)
 
-:-: ![](../images/image9.png) 点击登录
+:-: 点击同步
 
-:-: ![](../images/image4.png) 点击注册
+:-: ![](../images/image9.png) 
 
-:-: ![](../images/image.png)注册账号（记得去注册邮箱点击验证邮件）
+:-: 点击登录
 
-:-: ![](../images/image13.png)返回登录
+:-: ![](../images/image4.png) 
+
+:-: 点击注册
+
+:-: ![](../images/image.png)
+
+:-: 注册账号（记得去注册邮箱点击验证邮件）
+
+:-: ![](../images/TIM图片20181010195557.png)
+
+:-: 点击 Verify Email
+
+:-: ![](../images/image13.png)
+
+:-: 返回登录
+
 *****
 准备工作结束，可以去学学基础使用啦！
 
