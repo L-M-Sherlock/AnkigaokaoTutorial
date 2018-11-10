@@ -1,68 +1,62 @@
----
-description: .apkg文件在各系统的打开方法
----
 
-# 3.1 导入卡片
+> .apkg 文件（「牌组/记忆库」）在各系统的打开方法
+[TOC=2,4]
+「牌组/记忆库」即「卡片」的集合，用于分类储存「卡片」。
+试用材料请用百度云下载
 
-试用材料[百度云下载](https://pan.baidu.com/s/1dA5jpF4PoyIlnAG2Z3m0PQ)
-
-或者在下面下载
-
-{% file src="../.gitbook/assets/li-ke-yu-wen-shu-yu.apkg" %}
-
-{% file src="../.gitbook/assets/li-ke-ying-yu-xie-zuo.apkg" %}
-
-{% file src="../.gitbook/assets/li-ke-wu-li-wu-li-xue-shi.apkg" %}
-
-{% file src="../.gitbook/assets/li-ke-sheng-wu-fen-zi-yu-xi-bao.apkg" %}
-
-{% file src="../.gitbook/assets/li-ke-hua-xue-hua-xue-shi-yan.apkg" %}
+>[warning] 点击下面的链接即可
+> **注意**，这会导致转跳到本书之外的网站
+> https://pan.baidu.com/s/1dA5jpF4PoyIlnAG2Z3m0PQ
 
 ## 3.1.1 Windows/Mac
 
-![](../.gitbook/assets/9.22.20.24.PNG)
+:-: ![](../.gitbook/assets/9.22.20.24.PNG)
 
-如图所示，只要你安装好 Anki ，.apkg文件就会自动关联好，只要双击打开，就可以导入了。
+如图所示，只要你安装好 Anki，.apkg 文件就会自动关联好，只要双击打开，就可以导入了。
 
-![](../.gitbook/assets/9.22.20.27.PNG)
+:-: ![](../.gitbook/assets/9.22.20.27.PNG)
 
 如果不行的话，就像上图所示，手动导入。
 
 ## 3.1.2 Android
 
+首先，由于 AnkiDroid 不能关联 .apkg 文件，所以你是**无法直接打开**下载下来的牌组的！
+
+那该怎么导入卡片呢？
+
+我们得曲线救国，即手动导入卡片。
+
+在这之前，我们需要把下载下来的文件移动到指定路径。
+
+怎么移动文件？你得先找到下载的 .apkg 文件
+
+先点击系统自带的文件管理
+
+搜索 .apkg
+
+如果你下载前面的牌组，你就可以找到下图的文件了
+
+:-: ![](../images/Screenshot_20181007-203724.jpg)
+
+你只需要把 .apkg 文件复制或移动到下图的路径即可
+
+:-: ![](../.gitbook/assets/screenshot_20180922-210300__01.jpg)
+
+然后就可以打开 AnkiDroid 进行导入操作
+
 具体过程如下图
 
-![](../.gitbook/assets/gif_20180922211422.gif)
-
-当然，上图是在你已经把牌组移动到指定位置了。
-
-一般来说，百度云下载的地址如下图
-
-![](../.gitbook/assets/screenshot_20180922-210129__01.jpg)
-
-  
-你只需要把牌组移动到下图的地址即可
-
-![&#x8FD9;&#x4E2A;&#x56FE;&#x8BF7;&#x8BA4;&#x771F;&#x770B;](../.gitbook/assets/screenshot_20180922-210300__01.jpg)
+:-: ![](../.gitbook/assets/gif_20180922211422.gif)
 
 ## 3.1.3 iOS
 
 打开百度云
 
-![](../.gitbook/assets/tim-tu-pian-20180922213636.jpg)
+:-: ![](../.gitbook/assets/tim-tu-pian-20180922213636.jpg)下载
 
-下载
+:-: ![](../.gitbook/assets/tim-tu-pian-20180922213642.jpg)打开
 
-![](../.gitbook/assets/tim-tu-pian-20180922213642.jpg)
+:-: ![](../.gitbook/assets/tim-tu-pian-20180922213655.jpg)如果有 Copy  to Anki 就直接点
 
-  
-打开
-
-![](../.gitbook/assets/tim-tu-pian-20180922213655.jpg)
-
-如果有 Copy  to Anki 就直接点
-
-![](../.gitbook/assets/tim-tu-pian-20180922213701.jpg)
-
-如果没有，可能藏在 More 里面
+:-: ![](../.gitbook/assets/tim-tu-pian-20180922213701.jpg)如果没有，可能藏在 More 里面
 

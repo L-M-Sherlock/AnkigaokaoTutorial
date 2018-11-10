@@ -1,0 +1,19 @@
+{
+    "plugins": [
+        "comment",
+        "image-zoom"
+    ],
+    "pluginsConfig": {
+        "theme-default": {
+            "auto_open": true,
+            "show_nav": true,
+            "navs": [
+                {
+                    "url": "http://c.tb.cn/c.0bT33j",
+                    "title": "支持作者/加入我们/购买高中理科牌组",
+                    "target": true
+                }
+            ]
+        }
+    }
+}

@@ -1,20 +1,21 @@
----
-description: 简介
----
+高中生都能懂的 Anki 使用手册！
 
-# Anki X 高考
+作者是福建省 2018 届考生，高考分数 **647**，全省理科第 **967** 名，现就读于哈尔滨工业大学（深圳）；
 
-![](.gitbook/assets/tim-jie-tu-20180912201641.png)
+![](images/TIM截图20180725212035.png)
 
-![](.gitbook/assets/tou-xiang.jpg)
+![](images/TIM截图20180725211057.png)
 
-本书内容由
+运用 Anki 学习高中知识；
 
-知乎专栏《[高考╳Anki——科学备考研究所](https://zhuanlan.zhihu.com/ankigaokao)》
+制作 **15221** 张卡片备战高考。
 
-以及
+![](images/TIM截图20180829203917.png)
 
-微信公众号 Ankigaokao 
+我相信只要边看本书边开始实践，
 
-重新编辑而成。
+你也可以在学习上找到属于自己的道路！ 
 
+欢迎加入 Anki 知识星球向我提问和与 Ankier 们一起讨论！
+
+![](images/ZSXQ_20181009_155340284.png)
