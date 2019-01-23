@@ -1,4 +1,5 @@
 > 安卓手机就是 Android 系统哦~
+> 2019/1/24 更新[视频教程](https://www.bilibili.com/video/av41518619)
 [TOC=2,4]
 ## 2.2.1 下载软件
 
