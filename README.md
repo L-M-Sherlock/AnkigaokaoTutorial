@@ -1,3 +1,5 @@
+GitHub 项目仓库：[L-M-Sherlock/AnkigaokaoTutorial](https://github.com/L-M-Sherlock/AnkigaokaoTutorial)
+
 高中生都能懂的 Anki 使用手册！
 
 作者是福建省 2018 届考生，高考分数 **647**，全省理科第 **967** 名，现就读于哈尔滨工业大学（深圳）；
