@@ -12,7 +12,7 @@
 如果你已经安装好 Anki 了，但是还不会用，可以从这章开始看
 >[success] [第3章 基础用法](../basic-usage/basic-usage.md)
 ****
-如果你觉得平时使用 Anki 效率低下，或者有很多不方便之处，可以看着章
+如果你觉得平时使用 Anki 效率低下，或者有很多不方便之处，可以看这章
 >[success] [第4章 进阶操作](../advanced-operation/advanced-operation.md)
 ****
 如果你 Anki 已经用的很 6 了，不妨看看学习方法
