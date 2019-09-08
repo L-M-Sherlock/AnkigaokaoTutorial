@@ -9,7 +9,7 @@
 >[warning] 点击下面的两个链接中的一个即可
 > **注意**，这会导致转跳到本书之外的网站
 > GitHub
-> https://github.com/ankidroid/Anki-Android/release
+> https://github.com/ankidroid/Anki-Android/releases
 > 百度网盘
 > https://pan.baidu.com/s/16JFHGO9Yk1hlUD1d84iCGA
 
