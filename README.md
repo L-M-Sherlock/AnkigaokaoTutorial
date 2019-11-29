@@ -18,8 +18,6 @@ GitHub 项目仓库：[L-M-Sherlock/AnkigaokaoTutorial](https://github.com/L-M-S
 
 你也可以在学习上找到属于自己的道路！ 
 
-欢迎加入 Anki 知识星球向我提问和与 Ankier 们一起讨论！
-
-![](images/ZSXQ_20181009_155340284.png)
+欢迎加入 [Anki 高考圈子](https://www.zhihu.com/club/1182973609588469760)交流、打卡
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">知识共享署名-相同方式共享 4.0 国际许可协议</a>进行许可。
