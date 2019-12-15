@@ -13,7 +13,7 @@
  Ankigaokao 
 重新编辑而成
 
-欢迎加入 [Anki 高考圈子](https://www.zhihu.com/club/1182973609588469760)交流、打卡
+:-: 欢迎加入 [Anki 高考圈子](https://www.zhihu.com/club/1182973609588469760)交流、打卡
 
 :-: 来我的读者群也可以哦
 
