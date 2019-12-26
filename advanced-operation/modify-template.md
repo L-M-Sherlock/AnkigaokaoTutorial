@@ -12,8 +12,9 @@
 :-: ![](../.gitbook/assets/tim-jie-tu-20180928192211.png)
 
 ## 4.4.2 Android
-:-: ![](../images/Gif_20181006154023.gif)
+:-: ![](../.gitbook/assets/Gif_20181006154023.gif)
 其中样式代码与电脑端相同
+
 ## 4.4.3 iOS
 暂缺
 建议使用电脑端修改

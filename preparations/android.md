@@ -17,33 +17,33 @@
 
 下载下来的 .apk 在手机上打开，即可安装
 
-:-: ![](../images/image18.png)
+:-: ![](../.gitbook/assets/image18.png)
 
 ## 2.2.3 注册账号
 
 :-:  打开 AnkiDroid
 
-:-: ![](../images/image6.png)
+:-: ![](../.gitbook/assets/image6.png)
 
 :-: 点击同步
 
-:-: ![](../images/image9.png) 
+:-: ![](../.gitbook/assets/image9.png) 
 
 :-: 点击登录
 
-:-: ![](../images/image4.png) 
+:-: ![](../.gitbook/assets/image4.png) 
 
 :-: 点击注册
 
-:-: ![](../images/image.png)
+:-: ![](../.gitbook/assets/image.png)
 
 :-: 注册账号（记得去注册邮箱点击验证邮件）
 
-:-: ![](../images/TIM图片20181010195557.png)
+:-: ![](../.gitbook/assets/TIM图片20181010195557.png)
 
 :-: 点击 Verify Email
 
-:-: ![](../images/image13.png)
+:-: ![](../.gitbook/assets/image13.png)
 
 :-: 返回登录
 
