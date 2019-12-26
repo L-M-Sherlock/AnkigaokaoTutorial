@@ -1,6 +1,8 @@
 > 安卓手机就是 Android 系统哦~
 > 2019/1/24 更新[视频教程](https://www.bilibili.com/video/av41518619)
+
 [TOC=2,4]
+
 ## 2.2.1 下载软件
 
 介于国内的安卓手机无法通过 Google Play 下载和安装 Anki
