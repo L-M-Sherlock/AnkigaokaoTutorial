@@ -8,3 +8,4 @@ app store 里的 AnkiMobile 163 ￥
 
 ## 2.3.2 注册账号
 
+:-: ![image-20200117121852293](../.gitbook/assets/image-20200117121852293.png)

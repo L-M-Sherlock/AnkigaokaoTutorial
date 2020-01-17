@@ -8,7 +8,7 @@
 介于国内的安卓手机无法通过 Google Play 下载和安装 Anki
 
 这里推荐通过我的百度网盘下载
->[warning] 点击下面的两个链接中的一个即可
+>[warning] 点击下面的链接即可
 > **注意**，这会导致转跳到本书之外的网站
 > 百度网盘
 > https://pan.baidu.com/s/16JFHGO9Yk1hlUD1d84iCGA
