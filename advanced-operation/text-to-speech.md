@@ -5,7 +5,7 @@
 
 ## 4.3.1 Windows/Mac
 
-参见[AwesomeTTS for Anki](http://awesome-zh.nocode.site/)
+参见 [AwesomeTTS for Anki](http://awesome-zh.nocode.site/)
 >[info] 注意，点击上述链接你将跳转至本书之外的网站
 
 ## 4.3.2 Android

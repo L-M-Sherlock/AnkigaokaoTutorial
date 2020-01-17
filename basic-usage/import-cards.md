@@ -32,11 +32,19 @@
 
 打开百度云
 
-:-: ![](../.gitbook/assets/tim-tu-pian-20180922213636.jpg)下载
+:-: ![](../.gitbook/assets/tim-tu-pian-20180922213636.jpg)
 
-:-: ![](../.gitbook/assets/tim-tu-pian-20180922213642.jpg)打开
+下载
 
-:-: ![](../.gitbook/assets/tim-tu-pian-20180922213655.jpg)如果有 Copy  to Anki 就直接点
+:-: ![](../.gitbook/assets/tim-tu-pian-20180922213642.jpg)
 
-:-: ![](../.gitbook/assets/tim-tu-pian-20180922213701.jpg)如果没有，可能藏在 More 里面
+打开
+
+:-: ![](../.gitbook/assets/tim-tu-pian-20180922213655.jpg)
+
+如果有 Copy  to Anki 就直接点
+
+:-: ![](../.gitbook/assets/tim-tu-pian-20180922213701.jpg)
+
+如果没有，可能藏在 More 里面
 
