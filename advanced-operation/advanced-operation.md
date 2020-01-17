@@ -8,3 +8,13 @@
 
 可以点击下面的蓝字跳过本章
 >[success] [第 5 章 学习方法](../the-way-to-study/the-way-to-study.md)
+
+不过还是先给出目录，有选择的阅读即可
+
+>[success] [4.1 电子材料批量制卡](electronic-document.md)
+> [4.2 纸质材料快速制卡](paper-document.md)
+> [4.3 卡片文字转语音](text-to-speech.md)
+> [4.4 卡片模板修改](modify-template.md)
+> [4.5 算法参数修改](modify-parameter.md)
+> [4.6 划词助手](assistant.md)
+> [4.7 输入公式](formula.md)
