@@ -27,7 +27,7 @@
 
 效果：
 
-![img](../.gitbook/assets/v2-6021dde42a48e8e8f3b734d8a8dcc1a0_hd.png)
+![](../.gitbook/assets/v2-6021dde42a48e8e8f3b734d8a8dcc1a0_hd.png)
 
 注意！一定要用 \\( \\) 把 latex 公式套住，不要用 $$ 或 [$][/$]。
 

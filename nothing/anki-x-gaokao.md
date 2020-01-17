@@ -1,7 +1,7 @@
 
 > 简介
 
-:-: ![](../.gitbook/assets/批注 2020-01-17 112117.jpg)
+:-: ![](../.gitbook/assets/note2020-01-17112117.jpg)
 
 :-: ![](../.gitbook/assets/ankigaokao-zhihu.png)
 
