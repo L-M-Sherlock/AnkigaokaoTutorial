@@ -15,21 +15,21 @@
 
 其实，在高考前的最后一个寒假，我经历了一次肺炎，
 
-![](.gitbook/assets/tim-jie-tu-20180930213112.png)
+:-: ![](.gitbook/assets/tim-jie-tu-20180930213112.png)
 
-![](.gitbook/assets/tim-jie-tu-20180930213123.png)
+:-: ![](.gitbook/assets/tim-jie-tu-20180930213123.png)
 
 死亡、孤独、无意义等概念围绕着我，我不知道学习的意义是什么，甚至对活着的意义产生了怀疑。
 
-![](.gitbook/assets/tim-jie-tu-20180930213146.png)
+:-: ![](.gitbook/assets/tim-jie-tu-20180930213146.png)
 
-![](.gitbook/assets/tim-jie-tu-20180930213158.png)
+:-: ![](.gitbook/assets/tim-jie-tu-20180930213158.png)
 
 无聊的我在病床上偶然看到一篇文章
 
-![](.gitbook/assets/img_20180930_214637.jpg)
+:-: ![](.gitbook/assets/img_20180930_214637.jpg)
 
-![](.gitbook/assets/img_20180930_214717.jpg)
+:-: ![](.gitbook/assets/img_20180930_214717.jpg)
 
 我突然觉悟，和这些没有学上（缺乏教育资源）的孩子相比，我目前的处境又算得上什么呢？
 
@@ -45,12 +45,11 @@
 
 于是，在**意义**的驱动下，我开始了第一本书和知乎专栏的写作。  
 
+:-: ![](.gitbook/assets/tim-jie-tu-20180930223155.png)
 
-![](.gitbook/assets/tim-jie-tu-20180930223155.png)
+:-: ![](.gitbook/assets/tim-jie-tu-20180930223437.png)
 
-![](.gitbook/assets/tim-jie-tu-20180930223437.png)
-
-![](.gitbook/assets/v2-1a5cf2cf127b2629c227b80cee2a31bf_hd.jpg)
+:-: ![](.gitbook/assets/v2-1a5cf2cf127b2629c227b80cee2a31bf_hd.jpg)
 
 然后，我便一边用 Anki 准备高考，一边写文章推广 Anki 。那时我学习的一大**动力**便是先让自己强大，证明 Anki 学习法的优越性，再去说服别人。我的所作所为都为了我的**意义**服务。
 
@@ -69,7 +68,7 @@
 
 购买除试用牌组外的牌组即可进入 QQ 群，参加高中知识全覆盖的大型 Anki 制卡活动。拯救高中生，从我们开始！
 
-![](.gitbook/assets/tao-bao.JPG)
+:-: ![](.gitbook/assets/tao-bao.JPG)
 
 也愿大家掌握 Anki 学习法，不再迷茫、不再自我怀疑地学下去！
 
@@ -91,7 +90,9 @@
 
 最后，无论你是否购买牌组，你都已经通过本书学会了「**如何使用 Anki**」，这才是最宝贵的财富。我的牌组只是给你提供一个有基础架构的平台，让你站得更高，看得更远。
 再附一张我在 2018 年 5 月 18 日的 Anki 统计数据
-![](.gitbook/assets/anki-状态-2018-05-1823-26-08.png)
+
+:-: ![](.gitbook/assets/anki-状态-2018-05-1823-26-08.png)
+
 ## 一些在学习上省钱、省时的方法
 
 1. 少报补习班
