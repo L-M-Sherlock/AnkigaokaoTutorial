@@ -18,3 +18,4 @@
 > [4.5 算法参数修改](modify-parameter.md)
 > [4.6 划词助手](assistant.md)
 > [4.7 输入公式](formula.md)
+> [4.8 卡片搜索](card-search.md)

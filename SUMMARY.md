@@ -25,6 +25,7 @@
     * [4.5 算法参数修改](advanced-operation/modify-parameter.md)
     * [4.6 划词助手](advanced-operation/assistant.md)
     * [4.7 输入公式](advanced-operation/formula.md)
+    * [4.8 卡片搜索](advanced-operation/card-search.md)
 * [第 5 章 学习方法](the-way-to-study/the-way-to-study.md)
     * [5.1 学习闭环](the-way-to-study/circle-of-study.md)
     * [5.2 合作学习](the-way-to-study/study-team.md)
