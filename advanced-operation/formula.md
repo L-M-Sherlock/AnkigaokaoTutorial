@@ -8,10 +8,11 @@
 
 :-: ![](../.gitbook/assets/v2-9447a83aa84b1b0b7341a3b5fbebb8e2_hd.jpg)
 
-> [warning] 点击下面的链接即可下载教程
+>[warning] 点击下面的链接即可下载教程
 > **注意**，这会导致转跳到本书之外的网站
 > 百度网盘
 > [112分钟学会 LATEX](https://pan.baidu.com/s/10o0JWR-7_QtuqFFRaLyXtw)
+> [LaTeX\_化学\_公式](https://pan.baidu.com/s/1nFkPv9UaBqVrMhbLrFKf4Q)
 
 2. 直接到数学公式这一章：
 
