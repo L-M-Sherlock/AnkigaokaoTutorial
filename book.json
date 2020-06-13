@@ -7,10 +7,11 @@
         "theme-default": {
             "auto_open": true,
             "show_nav": true,
+            "logo": {},
             "navs": [
                 {
-                    "url": "http://c.tb.cn/c.0bT33j",
-                    "title": "支持作者/加入我们/购买高中理科牌组",
+                    "url": "https://zhuanlan.zhihu.com/p/142177105",
+                    "title": "【公告】Anki 高考牌组下架及解密的相关事宜",
                     "target": true
                 }
             ]
