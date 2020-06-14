@@ -28,7 +28,7 @@
         }
     },
     "pdf": {
-        "chapterMark": "rule",
+        "chapterMark": "none",
         "pageNumbers": false
     }
 }
