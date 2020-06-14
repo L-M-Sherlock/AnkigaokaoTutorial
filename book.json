@@ -10,8 +10,8 @@
             "logo": {},
             "navs": [
                 {
-                    "url": "https://zhuanlan.zhihu.com/p/142177105",
-                    "title": "【公告】Anki 高考牌组下架及解密的相关事宜",
+                    "title": "读者交流群",
+                    "url": "https://jq.qq.com/?_wv=1027&k=nKtnaUDK",
                     "target": true
                 },
                 {
@@ -20,8 +20,8 @@
                     "target": true
                 },
                 {
-                    "title": "读者交流群",
-                    "url": "点击https://jq.qq.com/?_wv=1027&k=nKtnaUDK",
+                    "url": "https://zhuanlan.zhihu.com/p/142177105",
+                    "title": "【公告】Anki 高考牌组下架及解密的相关事宜",
                     "target": true
                 }
             ]
