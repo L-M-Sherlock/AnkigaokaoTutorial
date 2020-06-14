@@ -1,4 +1,3 @@
-* [概要](README.md)
 * [目录](SUMMARY.md)
 * [第 0 章 可有可无的话](nothing/nothing.md)
     * [0.1 Anki X 高考](nothing/anki-x-gaokao.md)
