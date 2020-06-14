@@ -18,6 +18,11 @@
                     "title": "B 站 Ankidroid 视频教程",
                     "url": "https://www.bilibili.com/video/av41518619",
                     "target": true
+                },
+                {
+                    "title": "读者交流群",
+                    "url": "点击链接加入群聊【Anki高考专栏读者群】：https://jq.qq.com/?_wv=1027&k=nKtnaUDK",
+                    "target": true
                 }
             ]
         }

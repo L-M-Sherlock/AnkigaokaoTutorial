@@ -2,7 +2,7 @@ GitHub 项目仓库：[L-M-Sherlock/AnkigaokaoTutorial](https://github.com/L-M-S
 
 高中生都能懂的 Anki 使用手册！
 
-作者是福建省 2018 届考生，高考分数 **647**，全省理科第 **967** 名，现就读于哈尔滨工业大学（深圳）；
+我是本书作者[叶峻峣](https://www.zhihu.com/people/L.M.Sherlock)，福建省 2018 届考生，高考分数 **647**，全省理科第 **967** 名，哈尔滨工业大学（深圳）的计算机专业在读；
 
 ![](.gitbook/assets/TIM截图20180725212035.png)
 
