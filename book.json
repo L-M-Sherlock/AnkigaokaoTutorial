@@ -21,10 +21,13 @@
                 },
                 {
                     "title": "读者交流群",
-                    "url": "点击链接加入群聊【Anki高考专栏读者群】：https://jq.qq.com/?_wv=1027&k=nKtnaUDK",
+                    "url": "点击https://jq.qq.com/?_wv=1027&k=nKtnaUDK",
                     "target": true
                 }
             ]
         }
+    },
+    "pdf": {
+        "chapterMark": "rule"
     }
 }
