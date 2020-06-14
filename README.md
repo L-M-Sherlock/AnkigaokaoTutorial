@@ -4,15 +4,15 @@ GitHub 项目仓库：[L-M-Sherlock/AnkigaokaoTutorial](https://github.com/L-M-S
 
 我是本书作者[叶峻峣](https://www.zhihu.com/people/L.M.Sherlock)，福建省 2018 届考生，高考分数 **647**，全省理科第 **967** 名，哈尔滨工业大学（深圳）的计算机专业在读；
 
-:-: ![](.gitbook/assets/TIM截图20180725212035.png)
+![](.gitbook/assets/TIM截图20180725212035.png)
 
-:-: ![](.gitbook/assets/TIM截图20180725211057.png)
+![](.gitbook/assets/TIM截图20180725211057.png)
 
 运用 Anki 学习高中知识；
 
 制作 **15221** 张卡片备战高考。
 
-:-: ![](.gitbook/assets/TIM截图20180829203917.png)
+![](.gitbook/assets/TIM截图20180829203917.png)
 
 我相信只要边看本书边开始实践，
 
