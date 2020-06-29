@@ -4,21 +4,14 @@
 
 英语从 92 分到高考 138 分，总分从本一线（490）到高考 647 分（理科省排名 967，全省考生 20 万），在家人、同学惊叹的目光中高歌猛进。如今，武大、厦大、中山大学、南开这些曾经梦想的学府，现在却被我抛之脑后。
 
-:-: ![](https://pic3.zhimg.com/80/v2-3d34466209569fabdf0176bf5225d592_720w.jpg)
-
-:-: ![](https://pic1.zhimg.com/80/v2-2d46317efc3f2358f27741acffa72854_720w.jpg)
-
-:-: ![](https://pic2.zhimg.com/80/v2-1ffb8104cebb7129f8ff42b84ba39f55_720w.jpg)
-
-:-: ![](https://pic3.zhimg.com/80/v2-15e3d35ca4f188a4592ad3ba60e894aa_720w.jpg)
-
-:-: ![](https://pic3.zhimg.com/80/v2-88d1c1c8bd8dedddfbc311fa24b66c1e_720w.jpg)
-
-:-: ![](https://pic3.zhimg.com/80/v2-7d99795e33083cc5c99a884f6c565856_720w.jpg)
-
-:-: ![](https://pic1.zhimg.com/80/v2-97e75f50ce5292f2a8b2301a0f02e2f8_720w.jpg)
-
-:-: ![](https://pic1.zhimg.com/80/v2-d703012034524082d7f094ba201772b0_720w.jpg)
+:-: ![](../images/screenshot_1593452969809.png)
+![](../images/screenshot_1593452977410.png)
+![](../images/screenshot_1593452986548.png)
+![](../images/screenshot_1593452994508.png)
+![](../images/screenshot_1593453000293.png)
+![](../images/screenshot_1593453022487.png)
+![](../images/screenshot_1593453015023.png)
+![](../images/screenshot_1593453028602.png)
 
 这一切，都是因为我遇到的一位补习老师的一句话：
 
