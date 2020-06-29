@@ -1,8 +1,14 @@
 > 输入数学公式、化学方程式等内容
 
+[TOC=2,4]
+
+## 4.7.1 效果预览
+
 先看看效果
 
 :-: ![](../.gitbook/assets/v2-632da5d02da1fbff3dae50907e83cbc8_hd.jpg)
+
+## 4.7.2 分步教学
 
 1. 找一份 latex 教程，比如：
 
@@ -47,3 +53,11 @@
 >百度网盘
 >https://pan.baidu.com/s/16JFHGO9Yk1hlUD1d84iCGA
 
+## 4.7.3 公式OCR
+
+推荐两种方法
+
+>[warning] 点击下面的链接即可
+>**注意**，这会导致转跳到本书之外的网站
+>方法一：[在线LaTeX公式编辑器](https://www.latexlive.com/)
+>方法二：[QuickerXMathpix 实现截图公式OCR](https://zhuanlan.zhihu.com/p/127043982)
