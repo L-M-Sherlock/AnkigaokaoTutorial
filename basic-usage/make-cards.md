@@ -44,15 +44,19 @@ Back：「卡片」的背面。
 
 ##  3.4.3 iOS
 
-:-: ![](../.gitbook/assets/1af7bd7367a4593a2f8f88be090fb17e.png)点击add/Export
+点击左下角的 添加/导出
 
-:-: ![](../.gitbook/assets/b1d310214467431250db198f41220900.png)
-点击 Add Empty Deck，创建新「牌组/记忆库」
-:-: ![](../.gitbook/assets/a9afa85328c99823bed4e7d02ae0e723.png)命名「牌组/记忆库」
+:-: ![](../images/TIM图片20200731141832.jpg)
 
-:-: ![](../.gitbook/assets/2a96bc8fa4dcca5bf5674447b4851bff.png)点击 Add
+点击创建卡组
 
-:-: ![](../.gitbook/assets/fad645652a556345fbcbd7d135df0fa4.png)
+:-: ![](../images/TIM图片20200731141836.png)
 
-剩下的就和桌面端和安卓端类似了。
+命名「牌组/记忆库」
+
+:-: ![](../images/TIM图片20200731141841.jpg)
+
+然后点添加，剩下的和电脑还有安卓端差不多了
+
+:-: ![](../images/TIM图片20200731142150.jpg)
 

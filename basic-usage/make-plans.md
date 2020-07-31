@@ -98,25 +98,21 @@
 
 ### 3.2.3.1 设置「选项组/学习计划」
 
-:-: ![](../.gitbook/assets/e2f1b4f1cf9027ea020f2697d048f8a6.png)
+:-: ![](../images/TIM图片20200731141508.jpg)
 
-:-: ![](../.gitbook/assets/eaab8a6639f26ae75b62ce8e4da9166c.png)
+:-: ![](../images/TIM图片20200731141512.jpg)
 
-:-: ![](../.gitbook/assets/c4a726e2a140e0a38a9589e0351281f8.png)
-
-:-: ![](../.gitbook/assets/1f5516686097185556453c7520643aa5.png)
-
-:-: ![](../images/1.jpg)
-
-:-: ![](../images/2.jpg)
+:-: ![](../images/TIM图片20200731141515.jpg)
 
 ### 3.2.3.2 设置「牌组/记忆库」层级结构
 
-长按牌组重命名哦，其他的都和安卓差不多，看下面的图就好了~
+左划牌组重命名哦，其他的都和安卓差不多，看下面的图就好了~
 
-:-: ![](../.gitbook/assets/d759e2c9e5849ff2acb171b04778da8c.png)
+:-: ![](../images/TIM图片20200731141658.jpg)
 
-:-: ![](../.gitbook/assets/018dd7d1059684591c47bfe35f64b25f.png)
+:-: ![](../images/TIM图片20200731141702.jpg)
+
+:-: ![](../images/TIM图片20200731141707.png)
 
 
 
