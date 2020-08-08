@@ -16,6 +16,7 @@
     * [3.3 学习复习](basic-usage/study-and-review.md)
     * [3.4 制作卡片](basic-usage/make-cards.md)
     * [3.5 制卡心得](basic-usage/experience-of-make-cards.md)
+    * [3.6 使用他人制作的牌组](basic-usage/use-others-decks.md)
 * [第 4 章 进阶操作](advanced-operation/advanced-operation.md)
     * [4.1 电子材料批量制卡](advanced-operation/electronic-document.md)
     * [4.2 纸质材料快速制卡](advanced-operation/paper-document.md)
