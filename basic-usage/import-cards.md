@@ -1,12 +1,14 @@
-# 3.1 导入卡片
 
 > .apkg 文件（「牌组/记忆库」）在各系统的打开方法
 
-\[TOC=2,4\]
+[TOC=2,4]
 
-「牌组/记忆库」即「卡片」的集合，用于分类储存「卡片」。 试用材料请用百度云下载
+「牌组/记忆库」即「卡片」的集合，用于分类储存「卡片」。
+试用材料请用百度云下载
 
-> \[warning\] 点击下面的链接即可 **注意**，这会导致转跳到本书之外的网站 [https://pan.baidu.com/s/1dA5jpF4PoyIlnAG2Z3m0PQ](https://pan.baidu.com/s/1dA5jpF4PoyIlnAG2Z3m0PQ)
+>[warning] 点击下面的链接即可
+> **注意**，这会导致转跳到本书之外的网站
+> https://pan.baidu.com/s/1dA5jpF4PoyIlnAG2Z3m0PQ
 
 ## 3.1.1 Windows/Mac
 
@@ -30,19 +32,21 @@
 
 打开百度云
 
-:-: ![](../.gitbook/assets/TIM图片20200731141212.png)
+:-: ![](../images/TIM图片20200731141212.png)
 
 下载
 
-:-: ![](../.gitbook/assets/TIM图片20200731141237.jpg)
+:-: ![](../images/TIM图片20200731141237.jpg)
 
 打开
 
-如果有 Copy to Anki 就直接点
+如果有 Copy  to Anki 就直接点
 
-:-: ![](../.gitbook/assets/TIM图片20200731141335.jpg)
+:-: ![](../images/TIM图片20200731141335.jpg)
 
 如果没有，可能藏在 More 里面
 
-:-: ![](../.gitbook/assets/TIM图片20200731141407.jpg)
+:-: ![](../images/TIM图片20200731141407.jpg)
+
+
 

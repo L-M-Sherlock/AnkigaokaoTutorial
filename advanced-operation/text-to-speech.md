@@ -1,14 +1,12 @@
-# 4.3 卡片文字转语音
 
 > TTS 使用详解
 
-\[TOC=2,4\]
+[TOC=2,4]
 
 ## 4.3.1 Windows/Mac
 
-参见 \[AwesomeTTS \(Google Cloud Text-to-Speech\) \[unofficial\]\]\([https://ankiweb.net/shared/info/814349176](https://ankiweb.net/shared/info/814349176)\)
-
-> \[info\] 注意，点击上述链接你将跳转至本书之外的网站
+参见 [AwesomeTTS (Google Cloud Text-to-Speech) \[unofficial\]]([https://ankiweb.net/shared/info/814349176](https://ankiweb.net/shared/info/814349176))
+>[info] 注意，点击上述链接你将跳转至本书之外的网站
 
 ## 4.3.2 Android
 
@@ -16,7 +14,9 @@
 
 首先要下载 Google 文字转语音引擎.apk
 
-> \[info\] **注意**，这会导致转跳到本书之外的网站 百度网盘 [https://pan.baidu.com/s/1MK6cn4xj-MluVVf1V9TQgg](https://pan.baidu.com/s/1MK6cn4xj-MluVVf1V9TQgg)
+>[info]   **注意**，这会导致转跳到本书之外的网站
+> 百度网盘
+> https://pan.baidu.com/s/1MK6cn4xj-MluVVf1V9TQgg
 
 :-: ![](../.gitbook/assets/image%20%2814%29.png)
 
@@ -26,5 +26,8 @@
 
 :-: ![](../.gitbook/assets/image%20%282%29.png)
 
-之后还有一些设置，Anki 会引导你完成，我就不废话了。
+ 之后还有一些设置，Anki 会引导你完成，我就不废话了。  
+
+
+
 
