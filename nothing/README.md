@@ -28,7 +28,9 @@
 
 一开始我是这样记的：
 
-:-: ![](https://pic4.zhimg.com/80/v2-d3a0b13d1b386828b2fc7b0cf910c513_720w.jpg)
+:-: 
+
+![](https://pic4.zhimg.com/80/v2-d3a0b13d1b386828b2fc7b0cf910c513_720w.jpg)
 
 老师看我**记得很慢**，看了我的笔记本一眼，结果我被一通数落：「**记这么密干嘛**？我打包票你这样记完是**不会去看**的。」
 
@@ -36,7 +38,9 @@
 
 于是老师给我了他的笔记本，让我按照他的格式改，改完后效果如下：
 
-:-: ![](https://pic1.zhimg.com/80/v2-b83fd86651ec08adde6748dd5872f4bc_720w.jpg)
+:-: 
+
+![](https://pic1.zhimg.com/80/v2-b83fd86651ec08adde6748dd5872f4bc_720w.jpg)
 
 将笔记本横置，用随意的线条将版面大致均分为 4 列。松散地安置每条笔记的位置。这样一来，我可以肆意地**加快**我写笔记的**速度**，并且复习笔记时不会头皮发麻，很**轻松**地就能复习完一页笔记。而且这样也方便用纸挡住英文或中文的一列，测试自己是否能回忆出对应的意思。
 
@@ -64,19 +68,31 @@ Anki 是一款美国的学习辅助软件，**开源软件**，**免费使用**�
 
 现在就读于哈尔滨工业大学\(深圳\)的计算机专业
 
-:-: ![](https://pic2.zhimg.com/80/v2-4fe0c58b24d58fa4640650a7851ad4b5_720w.jpg)
+:-: 
+
+![](https://pic2.zhimg.com/80/v2-4fe0c58b24d58fa4640650a7851ad4b5_720w.jpg)
 
 以下是 Anki 的界面图以及我的使用情况，请大家感受其中蕴含的科学原理。
 
-:-: ![](https://pic4.zhimg.com/80/v2-89a052f644caf9f45c002987a3c237db_720w.jpg)
+:-: 
 
-:-: ![](https://pic1.zhimg.com/80/v2-c655c0cdb591a4317d5d52514db9d888_720w.jpg)
+![](https://pic4.zhimg.com/80/v2-89a052f644caf9f45c002987a3c237db_720w.jpg)
 
-:-: ![](https://pic3.zhimg.com/80/v2-320c19c535c24508eeedac04f29b4e8e_720w.jpg)
+:-: 
 
-:-: ![](https://pic4.zhimg.com/80/v2-00a433793295a815f5ca61e82baa8bbb_720w.jpg)
+![](https://pic1.zhimg.com/80/v2-c655c0cdb591a4317d5d52514db9d888_720w.jpg)
 
-:-: ![](https://pic3.zhimg.com/80/v2-a7aac545b0eca47b7518090043784f6e_720w.jpg)
+:-: 
+
+![](https://pic3.zhimg.com/80/v2-320c19c535c24508eeedac04f29b4e8e_720w.jpg)
+
+:-: 
+
+![](https://pic4.zhimg.com/80/v2-00a433793295a815f5ca61e82baa8bbb_720w.jpg)
+
+:-: 
+
+![](https://pic3.zhimg.com/80/v2-a7aac545b0eca47b7518090043784f6e_720w.jpg)
 
 我结合了很多学习理论和方法并运用到 Anki 中：
 
