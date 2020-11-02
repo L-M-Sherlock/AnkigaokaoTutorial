@@ -46,7 +46,7 @@ Anki  基于**间隔重复**方法，按照材料的难易程度， 控制对应
 通过点击下面的按钮，Anki 就会安排下次遇到这张「卡片」的时间。
 
 间隔重复的算法我将在
->[success]  [4.5 算法参数修改](../advanced-operation/modify-parameter.md) 
+>[success]  [4.5 算法参数修改](../advanced-operation/parameter.md) 
 > 
 这一章节详细叙述。
 
