@@ -1,13 +1,15 @@
 
 > 简介
 
-:-: ![](../.gitbook/assets/note2020-01-17112117.jpg)
-
 :-: ![](../.gitbook/assets/ankigaokao-zhihu.png)
+
+:-: ![](../images/screenshot_1604324600056.png)
+
+:-: ![](../images/screenshot_1604324608680.png)
 
 :-: 本书内容由
 知乎专栏
-高考╳Anki——科学备考研究所
+AnkiX高考
 以及
 微信公众号
  Ankigaokao 
